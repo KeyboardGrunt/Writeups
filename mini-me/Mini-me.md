@@ -1,3 +1,5 @@
+# DUCTF/web Mini-me (easy)
+
 Mini-me provides you with a login form at first glance, and upon submitting any credentials at all you will be taken to a brainrot page. If we check the source of the login page we can see a reference to a JavaScript file.
 ![alt text](https://github.com/KeyboardGrunt/Writeups/blob/main/mini-me/Pasted%20image%2020250718193536.png "web source")
 
